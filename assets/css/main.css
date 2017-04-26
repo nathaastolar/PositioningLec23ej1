@@ -1,0 +1,38 @@
+.orange{
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: #ED3E01;
+}
+.purple{
+  position: absolute;
+  top:75px;
+  left: 75px;
+  width: 150px;
+  height: 150px;
+  background-color: #940B6F;
+}
+.yellow{
+  width: 50px;
+  height: 50px;
+  background-color: #D6C60C;
+}
+.azul{
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: #940B6F;
+}
+.verde{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top:75px;
+  left: 75px;
+  background-color: #2DFF12;
+}
+.negro{
+  width: 75px;
+  height: 75px;
+  background-color: black;
+}
